@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Nilesh Kumar
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Student+%7C+Innovator+%7C+Builder;Hardware+%2B+Software+Enthusiast;Turning+Ideas+Into+Impact;Building+the+Future%2C+One+Project+at+a+Time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Student+%7C+Innovator+%7C+Builder;Hardware+%2B+Software+Enthusiast;Turning+Ideas+Into+Impact" alt="Typing SVG" />
 
 **🎓 Class 9 • 🇮🇳 India**  
 **🧠 Turning real-world problems into impactful tech solutions**
