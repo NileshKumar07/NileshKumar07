@@ -9,7 +9,7 @@
 
 [![Website](https://img.shields.io/badge/🌐_Website-nkssr.vercel.app-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://nkssr.vercel.app)
 [![X](https://img.shields.io/badge/X-@NileshKuma007-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NileshKuma007)
-[![Instagram](https://img.shields.io/badge/Instagram-@NileshKuma007-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/NileshKuma007)
+[![Instagram](https://img.shields.io/badge/Instagram-@NileshKumar_007-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/NileshKuma007)
 [![Discord](https://img.shields.io/badge/Discord-Join_Me-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1338108159113564230)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
@@ -201,7 +201,7 @@ print(current_goals())
 [![Website](https://img.shields.io/badge/🌐_Portfolio-nkssr.vercel.app-00D9FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://nkssr.vercel.app)
 
 [![X Follow](https://img.shields.io/badge/Follow_on_X-@NileshKuma007-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/NileshKuma007)
-[![Instagram Follow](https://img.shields.io/badge/Follow_on_Instagram-@NileshKuma007-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://instagram.com/NileshKuma007)
+[![Instagram Follow](https://img.shields.io/badge/Follow_on_Instagram-@NileshKumar_007-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://instagram.com/NileshKuma007)
 
 [![Discord](https://img.shields.io/badge/Chat_on_Discord-Nilesh_Kumar-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.com/users/1338108159113564230)
 
